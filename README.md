@@ -1,6 +1,6 @@
-# Arabic-Flash-Card-
+# Arabic-Flashcard-
 
-Arabic Flash Card program that allows users to practice learning the most common words found in the arabic language 
+Arabic Flashcard program that allows users to practice learning the most common words found in the arabic language 
 
 An arabic word will appear on the screen and users will have 5 seconds to try and remember the definition before the card changes to english: 
 
